@@ -19,8 +19,8 @@ print()
 
 # example
 
-a=3>0
-b=3<0
+a=3>0 # True
+b=3<0 # False
 print(a and b) # True and False = false
 
 print(a or b) # True or false = true
